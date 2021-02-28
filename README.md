@@ -1,9 +1,9 @@
-## Working verzion is hosted: http://wwwlab.cs.univie.ac.at/~maitm35/VIS20W/A5/
+### Working verzion is hosted: http://wwwlab.cs.univie.ac.at/~maitm35/VIS20W/A5/
 
 
-## vis20w-vue-d3
+### vis20w-vue-d3
 
-## Project setup
+### Project setup
 ```
 yarn install
 ```
